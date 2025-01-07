@@ -1,10 +1,9 @@
-import Counter from "@/app/components/counter/Counter";
+import Counter from '@/app/components/counter/Counter';
 
-export  default  function HomePage(){
+export default function HomePage() {
   return (
-<>
-  <Counter />
-</>
-
-  )
+    
+      <Counter />
+  
+  );
 }
